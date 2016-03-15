@@ -22,26 +22,33 @@ public class MainActivity extends AppCompatActivity {
         nameOfGroup = (EditText) findViewById(R.id.groupName);
         welcome = (TextView) findViewById(R.id.textView);
         addAndMoveToNextPage = (Button)findViewById(R.id.add);
-        addGroup.setOnClickListener(new Button.OnClickListener(){
-            public void onClick(View v){
+
+        addGroup();
+
+
+    }
+    public void addGroup(){
+        addGroup.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
                 welcome.setVisibility(View.INVISIBLE);
                 addGroup.setVisibility(View.INVISIBLE);
                 nameOfGroup.setVisibility(View.VISIBLE);
                 addAndMoveToNextPage.setVisibility(View.VISIBLE);
 
-                addAndMoveToNextPage.setOnClickListener(new Button.OnClickListener(){
+                addAndMoveToNextPage.setOnClickListener(new Button.OnClickListener() {
                     public void onClick(View v){
-                        Intent intent = new Intent("AddMemberActivity");
-                        intent.putExtra("groupName",nameOfGroup.getText());
-                        startActivity(intent);
-
+                        onAddBtnClick();
                     }
                 });
 
             }
         });
+    }
+    public void onAddBtnClick(){
+        Intent intent = new Intent(this, AddMemberActivity.class);
+        intent.putExtra("groupName",nameOfGroup.getText());
+        startActivity(intent);
 
     }
-
 
 }
