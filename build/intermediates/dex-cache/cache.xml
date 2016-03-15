@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_00de759f68381cd83b05eea8e43d58e141138c30.jar" />
+    </item>
+    <item
+        jar="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_fabe9528a8e22336ad045bec3521e67dc9c37312.jar" />
+    </item>
+    <item
+        jar="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_76cfc838effe643a262392a42566660ce7458c5a.jar" />
+    </item>
+    <item
+        jar="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_ea49d34b3c16b33c3f6010cb4e1f4c4bb89afb0c.jar" />
+    </item>
+    <item
+        jar="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_ae46de609c05367249c35ec29879639c49237821.jar" />
+    </item>
+    <item
+        jar="/home/palashg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_7141e89a24303bd2a3c15951e8c4652f2a97293a.jar" />
+    </item>
+
+</items>
