@@ -17,6 +17,19 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.app.gaurav.photoupload.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.app.gaurav.photoupload.AddMemberActivity"
+            android:label="@string/title_activity_add_member"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.app.gaurav.photoupload.AddImage"
+            android:label="@string/title_activity_add_image"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.app.gaurav.photoupload.SignIn"
+            android:label="@string/title_activity_sign_in"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -24,9 +37,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.app.gaurav.photoupload.AddMemberActivity"
-            android:label="@string/title_activity_add_member"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>

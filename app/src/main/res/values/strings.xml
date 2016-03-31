@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">PhotoUpload</string>
     <string name="title_activity_add_member">AddMemberActivity</string>
+    <string name="title_activity_add_image">AddImage</string>
+    <string name="title_activity_sign_in">SignIn</string>
 </resources>

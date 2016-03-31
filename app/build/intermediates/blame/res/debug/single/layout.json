@@ -4,8 +4,16 @@
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/content_add_image.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/src/main/res/layout/content_add_image.xml"
+    },
+    {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/content_sign_in.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/src/main/res/layout/content_sign_in.xml"
     },
     {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -104,6 +112,10 @@
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
     },
     {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
     },
@@ -116,20 +128,8 @@
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -142,6 +142,22 @@
     {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/activity_add_image.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/src/main/res/layout/activity_add_image.xml"
+    },
+    {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/home/palashg/Documents/woof/and/PhotoUpload/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",

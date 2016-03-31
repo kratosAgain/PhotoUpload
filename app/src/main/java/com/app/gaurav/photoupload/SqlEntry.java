@@ -15,6 +15,15 @@ public class SqlEntry {
         this.groupName = groupName;
     }
 
+    @Override
+    public String toString() {
+        return "SqlEntry{" +
+                "Name='" + Name + '\'' +
+                ", ImageFileName='" + ImageFileName + '\'' +
+                ", groupName='" + groupName + '\'' +
+                '}';
+    }
+
     public String getName(){
         return this.Name;
     }

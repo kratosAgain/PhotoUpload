@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         welcome = (TextView) findViewById(R.id.textView);
         addAndMoveToNextPage = (Button)findViewById(R.id.add);
 
+        welcome.setText("Welcome " + this.getIntent().getExtras().getString("userName"));
         addGroup();
 
 
@@ -45,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void onAddBtnClick(){
-        Intent intent = new Intent(this, AddMemberActivity.class);
+        Intent intent = new Intent(getApplicationContext(), AddImage.class);
         intent.putExtra("groupName",nameOfGroup.getText());
         startActivity(intent);
 
